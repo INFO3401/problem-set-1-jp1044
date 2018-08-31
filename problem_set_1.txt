@@ -1,0 +1,15 @@
+Wednesday:
+
+1.
+
+* From Alamaty, Kazakhstan (Facebook)
+* Likes astronomy (Instagram bio)
+* Worked at Punch bowl social (LinkedIn)
+* Is a student assistant III at CU (CU directory)
+
+2.
+
+// Describe three scenarios in which using version control would help you manage a project. For each scenario, be sure to describe the situation, note the issues not using version control would cause, and how you would use version control to avoid the issue. //
+
+3. https://github.com/jp1044/testrepo3401
+4. When Taylor and I tried to push a change at the same time, it first gave Taylor a long error message. When she tried pushing again, Github Desktop told her to pull the repo before pushing because it had been modified. Taylor then pulled the repo and resolved the conflicts by merging our changes and pushed the changes.
