@@ -6,10 +6,19 @@ Wednesday:
 * Likes astronomy (Instagram bio)
 * Worked at Punch bowl social (LinkedIn)
 * Is a student assistant III at CU (CU directory)
+* Is also taking INFO 4601 - Applied Machine Learning (Canvas profile)
 
-2.
+2a. Version control would be helpful in working on a project where some fellow students and I were working on a Python notebook together. There would come a time where all of us are adding to the file and most likely saving different versions into a Google Drive folder. Although this would help us all stay on the most recent version, if we had questions we wouldn't know who to ask since we wouldn't be able to see who addeda  vertain section of code.
 
-// Describe three scenarios in which using version control would help you manage a project. For each scenario, be sure to describe the situation, note the issues not using version control would cause, and how you would use version control to avoid the issue. //
+2b. When working individually on a project, I've always saved new files to create new working versions of a project. This is a tedious task and it makes it much more difficult to pull certain changes out of a version without pulling the entire file. With version control, I can commit changes without having to save an entirely new file which makes it easy in the future to revert certain changes that I've made.
+
+2c. If I were the developer of a software package of some kind that was used widely, it would be crucial for me to be able to work work on beta versions between substantial releases. Doing this without version control would require two separate sets of files, which would take up more space and merging the files for release versions would be more difficult. With version control, it would be possible to branch the project and merely merge the changes into the main branch for signifcant releases.
 
 3. https://github.com/jp1044/testrepo3401
 4. When Taylor and I tried to push a change at the same time, it first gave Taylor a long error message. When she tried pushing again, Github Desktop told her to pull the repo before pushing because it had been modified. Taylor then pulled the repo and resolved the conflicts by merging our changes and pushed the changes.
+
+5a. Commit often - I would make sure everyone on the team knows that version ontrol works the best when the team members commit often so that others are working on the latest version instead of architecting their own part of the project with a view of the most recent version. This also helps ensure that a backup version is readily accessible if it's needed.
+
+5b. Write descriptive documentation - Down the road, it will make all team members' lives much easier if they write detailed descriptions in their commits so that they know what they were thinking when they wrote the code.
+
+5c. Training - I would try to make sure that all team members have a good idea of what version control is and how to use it in their role to avoid as many mistakes and errors as possible down the road. 
